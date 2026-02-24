@@ -38,13 +38,13 @@ The dataset consists of the following tables:
 
 | Table | Description |
 |--------|------------|
-| Fact_SupplyChain | Transaction-level revenue, inventory, supplier & operational data |
-| Dim_Product | Product attributes (ProductID, Category) |
-| Dim_Supplier | Supplier information including Risk_Score |
-| Dim_Date | Date dimension for time-based analysis |
-| Dim_Warehouse | Warehouse-level storage data |
-| ABC_Table | Disconnected table for ABC classification |
-| MyMeasures | Dedicated table for all DAX measures |
+| `Fact_SupplyChain` | Transaction-level revenue, inventory, supplier & operational data |
+| `Dim_Product` | Product attributes (ProductID, Category) |
+| `Dim_Supplier` | Supplier information including Risk_Score |
+| `Dim_Date` | Date dimension for time-based analysis |
+| `Dim_Warehouse` | Warehouse-level storage data |
+| `ABC_Table` | Disconnected table for ABC classification |
+| `MyMeasures` | Dedicated table for all DAX measures |
 
 ---
 
@@ -184,11 +184,4 @@ This project demonstrates:
 It reflects the ability to move beyond descriptive reporting and deliver actionable supply chain intelligence.
 
 ---
-
-## 👤 Author
-
-**Anirudha Das**  
-Aspiring Data Analyst / Business Intelligence Professional  
-West Bengal, India  
-
----
+>Note *For any questions or collaboration opportunities, feel free to reach out!*
