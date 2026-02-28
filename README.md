@@ -1,6 +1,6 @@
 # 🚚📦 Supply Chain Intelligence Dashboard (Power BI)
 
-An end-to-end Supply Chain & Risk Intelligence Dashboard built using Power BI to analyze revenue performance, inventory efficiency, working capital optimization, and supplier risk exposure.
+An end-to-end **Supply Chain & Risk Intelligence Dashboard** built using Power BI to analyze revenue performance, inventory efficiency, working capital optimization, and supplier risk exposure.
 
 This project simulates a real-world enterprise supply chain monitoring system integrating financial, operational, and supplier risk analytics.
 
